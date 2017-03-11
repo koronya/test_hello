@@ -19,4 +19,6 @@ print("local test 3")
 print("local test 4")
 print("local test 5")
 print("local test 6")
+print("remote test 3")
+print("remote test 4")
 
