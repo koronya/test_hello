@@ -13,6 +13,10 @@ print("Tell remote world2")
 print("Tell local master 1")
 print("Tell remote world3")
 
+print("hotfix2 1")
+print("hotfix2 2")
+print("hotfix2 3")
+
 print("local test 1")
 print("local test 2")
 print("local test 3")
