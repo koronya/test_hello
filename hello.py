@@ -2,6 +2,7 @@
 print("Hello World")
 
 print("remote test1")
+print("remote test2")
 
 print("Tell Your world")
 print("Tell his world")   #from master
