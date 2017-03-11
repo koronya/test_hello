@@ -8,3 +8,8 @@ print("Tell remote world")  # from remote master
 print("Tell remote world2")
 print("Tell local master 1")
 print("Tell remote world3")
+
+print("local test 1")
+
+
+
